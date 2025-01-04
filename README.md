@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">・‎‎‎‎ ‎‎‎ One token - one server<br>・‎‎‎‎ ‎‎‎ We recommend not to change time.sleep() values due to possible detections / ratelimits<br>・‎‎‎‎ ‎‎‎ Don't name ur channels like "autobumper" or simmilar (once my server got banned by Dishboard because of that)<br>ㅤ<br>ㅤ<br>ㅤㅤㅤ<br>ㅤ</p>
+<p align="left">・‎‎‎‎ ‎‎‎ One token - One server<br>・‎‎‎‎ ‎‎‎ We recommend not to change time.sleep() values due to possible detections / ratelimits<br>・‎‎‎‎ ‎‎‎ Don't name ur channels like "autobumper" or simmilar (once my server got banned by Dishboard because of that)<br>ㅤ<br>ㅤ<br>ㅤㅤㅤ<br>ㅤ</p>
 
 ###
 
