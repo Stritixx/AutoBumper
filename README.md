@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">AutoBumper is a ready-to-use tool designed to take the hassle out of server bumping. <br>With this powerful utility, you'll never need to manually bump your Discord server again. <br>Whether you're managing a small community or a bustling server,<br>AutoBumper ensures your server stays active and visible without lifting a finger.</h5>
+<p align="left">AutoBumper is a ready-to-use tool designed to take the hassle out of server bumping. <br>With this powerful utility, you'll never need to manually bump your Discord server again. <br>Whether you're managing a small community or a bustling server,<br>AutoBumper ensures your server stays active and visible without lifting a finger.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">-‎‎‎‎ ‎‎‎ 24/7 Host Possible<br>-‎‎‎‎ ‎‎‎ Undetectable<br>-‎‎‎‎ ‎‎‎ Completely FREE<br>-‎‎‎‎ ‎‎‎ No Limits<br>-‎‎‎‎ ‎‎‎ Simple Config File</h5>
+<p align="left">-‎‎‎‎ ‎‎‎ 24/7 Host Possible<br>-‎‎‎‎ ‎‎‎ Undetectable<br>-‎‎‎‎ ‎‎‎ Completely FREE<br>-‎‎‎‎ ‎‎‎ No Limits<br>-‎‎‎‎ ‎‎‎ Simple Config File</p>
 
 ###
 
