@@ -1,0 +1,26 @@
+[
+	{
+		"server_name": "Server #1",
+		"server_id": 1234,
+		"channel_id": 1234,
+		"token": ""
+	},
+	{
+		"server_name": "Server #2",
+		"server_id": 1234,
+		"channel_id": 1234,
+		"token": ""
+	},
+	{
+		"server_name": "Server #3",
+		"server_id": 1234,
+		"channel_id": 1234,
+		"token": ""
+	},
+	{
+		"server_name": "Server #4",
+		"server_id": 1234,
+		"channel_id": 1234,
+		"token": ""
+	}
+]
