@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">ㅤ<br>ㅤ<br>ㅤㅤㅤ<br>ㅤ</p>
+<p align="left"></p>
 
 ###
 
